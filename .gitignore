@@ -36,3 +36,6 @@ nosetests.xml
 
 # Google libraries
 gdata-*
+
+# Developer keys
+devkeys.py
